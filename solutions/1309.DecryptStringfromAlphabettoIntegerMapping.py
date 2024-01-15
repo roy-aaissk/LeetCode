@@ -25,7 +25,3 @@ class Solution:
                 result += alphabet_dict[s[i]]
                 i += 1
         return result
-
-
-
-        
